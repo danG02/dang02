@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Danny Galan, I am a Computer Science & Data Science major. Here you will see all of my projects, finished and still working on them. I am really intresting to start doing any data science based work. You can email me thorugh my website on the bottom left on my projects page on www.dannygalan.com . 
+My name is Danny Galan, I am a Computer Science & Data Science major. Here you will see all of my projects, finished and still working on them. I am really intresting to start doing any data science based work. You can email me thorugh my website on www.dannygalan.com . 
 
 <!--
 **danG02/dang02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
